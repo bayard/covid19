@@ -18,8 +18,8 @@ X_STEP = 1000
 SUM_WINDOW = 7
 #COLS = {'Canada','China', 'France','Germany', 'India', 'Japan', 'Russia', 'Spain', 'United Kingdom'}
 
-#COLS = {'France', 'Germany', 'Italy', 'Russia', 'United Kingdom'}
-COLS = {'Canada'}
+COLS = {'France', 'Germany', 'Italy', 'Russia', 'United Kingdom'}
+#COLS = {'Canada'}
 
 '''
 COLS = {'World', 'Australia', 'Canada', 'China', 'France', \
